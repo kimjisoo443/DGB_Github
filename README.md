@@ -39,5 +39,6 @@ pip --trust-host pypi.org --truxted-host files.pythonhosted.org install numpy
 ## 문의사항
 
 궁금한 사항이 있으면 메일 남겨주세요.
+
 im@digitalbanker.com
 
