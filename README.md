@@ -22,7 +22,7 @@
   * 산
     * 고양이
      
-![iM DiGital](/iM_DiGital.png)
+![iM DiGital](/iM_DiGital.jpg)
 
 **굵은 글씨로 표시됩니다**
 
