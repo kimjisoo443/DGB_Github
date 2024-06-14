@@ -34,7 +34,6 @@ pip --trust-host pypi.org --truxted-host files.pythonhosted.org install numpy
  - [가설검정](/data)
  - [머신러닝 및 특성공학](/data)
    
-*깃허브 - OT / 파이썬 기초 및 문법 -DATA파일로 연결
 
 
 ## 문의사항
