@@ -1,5 +1,7 @@
 # [대구은행] iM DiGital Banker Academy
 
+[노션링크](https://www.notion.so/35b48181a3b340ff9505da1efca1a37c?pvs=21)
+
  >데이터 분석 전문가 양성 과정
      
 ![iM DiGital](/iM_DiGital.jpg)
